@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @WildRasberrie (AKA Tati)
+  
   I currently study Digital Game Development at CCNY and previously studied Game Design at Hostos. 
 - 👀 I’m interested in all things art and games have to offer. I particularly love games with high customization or modding options (Sims 4, GTA, Cyberpunk, ETC)
 - 🌱 I’m currently learning how to code & design
